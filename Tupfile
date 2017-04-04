@@ -1,0 +1,2 @@
+CFLAGS=-Wall -O3
+: foreach src/*.c |> g++ $(CFLAGS) %f -o %o |> build/%B
