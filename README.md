@@ -1,10 +1,9 @@
-Comparação dos Métodos de Copiar de um Arquivo no Linux/Unix
-============================================================
+## Comparação das funções de cópia de arquivos no Linux
 
 Qual é a maneira mais rápida (e que consome menos memória) de se copiar um
 arquivo no Linux/Unix?
 
-## Resultados
+### Resultados
 
 |                        | System Time (seconds) |
 |------------------------|-----------------------|
